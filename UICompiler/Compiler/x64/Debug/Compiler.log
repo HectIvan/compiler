@@ -1,0 +1,39 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  Compiler.cpp
+C:\Users\theun\source\repos\UICompiler\Compiler\LexState_ID.h(5,1): error C2504: 'LexState': clase base sin definir
+C:\Users\theun\source\repos\UICompiler\Compiler\LexState_Number.h(5,1): error C2504: 'LexState': clase base sin definir
+C:\Users\theun\source\repos\UICompiler\Compiler\LexState_Operator.h(5,1): error C2504: 'LexState': clase base sin definir
+C:\Users\theun\source\repos\UICompiler\Compiler\LexState_Start.h(5,1): error C2504: 'LexState': clase base sin definir
+  ErrorManager.cpp
+C:\Users\theun\source\repos\UICompiler\Compiler\LexState_ID.h(5,1): error C2504: 'LexState': clase base sin definir
+C:\Users\theun\source\repos\UICompiler\Compiler\LexState_Number.h(5,1): error C2504: 'LexState': clase base sin definir
+C:\Users\theun\source\repos\UICompiler\Compiler\LexState_Operator.h(5,1): error C2504: 'LexState': clase base sin definir
+C:\Users\theun\source\repos\UICompiler\Compiler\LexState_Start.h(5,1): error C2504: 'LexState': clase base sin definir
+C:\Users\theun\source\repos\UICompiler\Compiler\LexState.h(23,15): error C3646: 'm_error': especificador de invalidación desconocido
+C:\Users\theun\source\repos\UICompiler\Compiler\LexState.h(23,22): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+  Lexer.cpp
+C:\Users\theun\source\repos\UICompiler\Compiler\LexState_ID.h(5,1): error C2504: 'LexState': clase base sin definir
+C:\Users\theun\source\repos\UICompiler\Compiler\LexState_Number.h(5,1): error C2504: 'LexState': clase base sin definir
+C:\Users\theun\source\repos\UICompiler\Compiler\LexState_Operator.h(5,1): error C2504: 'LexState': clase base sin definir
+C:\Users\theun\source\repos\UICompiler\Compiler\LexState_Start.h(5,1): error C2504: 'LexState': clase base sin definir
+C:\Users\theun\source\repos\UICompiler\Compiler\Lexer.cpp(17,34): error C2660: 'LexState::Tokenize': la función no acepta 2 argumentos
+C:\Users\theun\source\repos\UICompiler\Compiler\LexState.h(29,15): message : vea la declaración de 'LexState::Tokenize'
+  LexState.cpp
+C:\Users\theun\source\repos\UICompiler\Compiler\LexState_ID.h(5,1): error C2504: 'LexState': clase base sin definir
+C:\Users\theun\source\repos\UICompiler\Compiler\LexState_Number.h(5,1): error C2504: 'LexState': clase base sin definir
+C:\Users\theun\source\repos\UICompiler\Compiler\LexState_Operator.h(5,1): error C2504: 'LexState': clase base sin definir
+C:\Users\theun\source\repos\UICompiler\Compiler\LexState_Start.h(5,1): error C2504: 'LexState': clase base sin definir
+  LexState_ID.cpp
+C:\Users\theun\source\repos\UICompiler\Compiler\LexState_ID.cpp(6,1): fatal error C1010: final de archivo inesperado al buscar la directiva de encabezado precompilado. Compruebe si olvidó agregar '#include "pch.h"' al código fuente?
+  LexState_Number.cpp
+C:\Users\theun\source\repos\UICompiler\Compiler\LexState_Number.cpp(34,1): fatal error C1010: final de archivo inesperado al buscar la directiva de encabezado precompilado. Compruebe si olvidó agregar '#include "pch.h"' al código fuente?
+  LexState_Operator.cpp
+C:\Users\theun\source\repos\UICompiler\Compiler\LexState_ID.h(5,1): error C2504: 'LexState': clase base sin definir
+C:\Users\theun\source\repos\UICompiler\Compiler\LexState_Number.h(5,1): error C2504: 'LexState': clase base sin definir
+C:\Users\theun\source\repos\UICompiler\Compiler\LexState_Start.h(5,1): error C2504: 'LexState': clase base sin definir
+  LexState_Start.cpp
+C:\Users\theun\source\repos\UICompiler\Compiler\LexState_ID.h(5,1): error C2504: 'LexState': clase base sin definir
+C:\Users\theun\source\repos\UICompiler\Compiler\LexState_Number.h(5,1): error C2504: 'LexState': clase base sin definir
+C:\Users\theun\source\repos\UICompiler\Compiler\LexState_Operator.h(5,1): error C2504: 'LexState': clase base sin definir
+  Generando código...

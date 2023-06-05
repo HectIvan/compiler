@@ -1,0 +1,12 @@
+C:\Users\theun\source\repos\UICompiler\UICompiler\bin\x64\Debug\UICompiler.exe.config
+C:\Users\theun\source\repos\UICompiler\UICompiler\bin\x64\Debug\UICompiler.exe
+C:\Users\theun\source\repos\UICompiler\UICompiler\bin\x64\Debug\UICompiler.pdb
+C:\Users\theun\source\repos\UICompiler\UICompiler\obj\x64\Debug\UICompiler.Form1.resources
+C:\Users\theun\source\repos\UICompiler\UICompiler\obj\x64\Debug\UICompiler.Properties.Resources.resources
+C:\Users\theun\source\repos\UICompiler\UICompiler\obj\x64\Debug\UICompiler.csproj.GenerateResource.cache
+C:\Users\theun\source\repos\UICompiler\UICompiler\obj\x64\Debug\UICompiler.csproj.CoreCompileInputs.cache
+C:\Users\theun\source\repos\UICompiler\UICompiler\obj\x64\Debug\UICompiler.exe
+C:\Users\theun\source\repos\UICompiler\UICompiler\obj\x64\Debug\UICompiler.pdb
+C:\Users\theun\source\repos\UICompiler\UICompiler\bin\x64\Debug\Compiler.pdb
+C:\Users\theun\source\repos\UICompiler\UICompiler\obj\x64\Debug\UICompiler.csproj.CopyComplete
+C:\Users\theun\source\repos\UICompiler\UICompiler\obj\x64\Debug\UICompiler.csproj.AssemblyReference.cache
